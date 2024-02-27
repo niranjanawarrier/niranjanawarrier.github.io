@@ -66,7 +66,7 @@
     <h1> <a href="niranjanawarrier.github.io">Niranjana Warrier</a> </h1>
     
 <div class="dropdown">
-    <a href="./ww.md">written work <span class="dropdown-arrow">˯</span></a> <!-- Added dropdown arrow here -->
+    <a href="./ww.md">written work <span class="dropdown-arrow">&#8964</span></a> <!-- Added dropdown arrow here -->
 <div class="dropdown-content">
         <p><a href="./ew.md">earlier writing</a></p>
     </div>
