@@ -20,13 +20,6 @@
             font-weight: normal;
             border: none;
         }
-        h1 {
-            margin-bottom: 0;
-            font-style: italic; /* Made header text italic */
-            font-size: 100%; /* Reduced font size for header */
-            border: none;
-            outline: none;
-        }
         .dropdown {
             position: relative;
             display: inline-block;
@@ -64,7 +57,8 @@
     </style>
 </head>
 <body>
-    <h1> <a href="niranjanawarrier.github.io">Niranjana Warrier</a> </h1>
+
+<p> <a href="niranjanawarrier.github.io">Niranjana Warrier</a> </p>
     
 <div class="dropdown">
     <a href="./ww.md">written work&#x25BC;</a> <!-- Added dropdown arrow here -->
