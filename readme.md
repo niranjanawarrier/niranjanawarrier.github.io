@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title><i>title</i></title>
+    <title><i>Niranjana Warrier</i></title>
     <link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@200&display=swap" rel="stylesheet">
     <style>
         body {
@@ -47,14 +47,14 @@
 </head>
 <body>
     <div class="dropdown">
-        <a href="#item1">Item 1</a>
+        <a href="#item1">written work</a>
         <div class="dropdown-content">
-            <p><a href="#subitem1">This is a subitem of Item 1.</a></p>
+            <p><a href="#subitem1">earlier writing</a></p>
         </div>
     </div>
 
     <div>
-        <a href="#item2">Item 2</a>
+        <a href="#item2">non-written work</a>
     </div>
 
     <div class="footer">
