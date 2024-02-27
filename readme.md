@@ -5,7 +5,7 @@
     <style>
         body {
             background-color: #fffbee;
-            font-family: 'Newsreader', serif;
+            font-family: 'Newsreader', 'Garamond', serif;
             width: 100%;
             margin: 0;
             padding: 0;
@@ -16,6 +16,19 @@
             text-decoration: none;
             font-weight: normal;
             border: none;
+        }
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            min-width: 160px;
+            z-index: 1;
+        }
+        .dropdown:hover .dropdown-content {
+            display: block;
         }
         .wp-block-column {
             height:50vh;
@@ -32,8 +45,12 @@
     </style>
 </head>
 <body>
-    <a href="#item1">Item 1</a>
-    <p><a href="#subitem1">This is a subitem of Item 1.</a></p>
+    <div class="dropdown">
+        <a href="#item1">Item 1</a>
+        <div class="dropdown-content">
+            <p><a href="#subitem1">This is a subitem of Item 1.</a></p>
+        </div>
+    </div>
 
     <a href="#item2">Item 2</a>
 
