@@ -1,7 +1,7 @@
 <html>
 <head>
     <title></title>
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,800;1,800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
      <style>
         * {
             font-family: 'Newsreader', serif;
