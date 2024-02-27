@@ -1,7 +1,7 @@
 <html>
 <head>
     <title></title>
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
      <style>
         * {
             font-family: 'Newsreader', serif;
@@ -60,7 +60,7 @@
     <h1> <a href="niranjanawarrier.github.io">Niranjana Warrier</a> </h1>
     
 <div class="dropdown">
-    <a href="./ww.md">written work <span class="dropdown-arrow">&#751;</span></a>
+    <a href="./ww.md">written work &#751;</a>
 <div class="dropdown-content">
         <p><a href="./ew.md">earlier writing</a></p>
     </div>
