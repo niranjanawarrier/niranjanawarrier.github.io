@@ -17,6 +17,9 @@
             font-weight: normal;
             border: none;
         }
+        h1 {
+            border-bottom: none;
+        }
         .dropdown {
             position: relative;
             display: inline-block;
