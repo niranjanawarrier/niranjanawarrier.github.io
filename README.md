@@ -26,7 +26,7 @@
             font-size: 20%; /* Reduced font size for header */
         }
         .dropdown {
-            position: absolute;
+            position: relative;
             display: inline-block;
             border: 1px solid black; /* Added border here */
             text-align: center;
