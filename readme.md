@@ -5,14 +5,14 @@ layout: global
 # Niranjana Warrier
 
 <div class="dropdown">
-    written work(./ww.md)
+    <a href="./ww.md">Written Work</a>
     <div class="dropdown-content">
-        <p>earlier writing(./ew.md)</p>
+        <p><a href="./ew.md">Earlier Writing</a></p>
     </div>
 </div>
 
 <div>
-    non-written work(./nww.md)
+    <a href="./nww.md">Non-Written Work</a>
 </div>
 
 
