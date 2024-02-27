@@ -25,6 +25,9 @@
             font-style: italic; /* Made header text italic */
             font-size: 10px; /* Reduced font size for header */
         }
+        h1 a {
+            border-bottom: none;
+        }
         .dropdown {
             position: relative;
             display: inline-block;
