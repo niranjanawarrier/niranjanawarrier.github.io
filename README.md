@@ -18,7 +18,7 @@
             border: none;
         }
         h1 {
-            border-bottom: none;
+            margin-bottom: 0;
         }
         .dropdown {
             position: relative;
