@@ -32,7 +32,7 @@
             display: inline-block;
             border: 1px solid black; /* Added border here */
             text-align: center;
-            margin-left: 50%;
+            margin-left: 10%;
         }
         .dropdown-content {
             display: none;
@@ -73,7 +73,7 @@
     </div>
 </div>
 
-<div style="margin-left: 50%;">
+<div style="margin-left: 10%;">
     <a href="./nww.md">non-written work</a>
 </div>
 
