@@ -11,7 +11,7 @@
             width: 100%;
             margin: 0;
             padding: 0;
-            font-size: 50%;
+            font-size: 12px;
             border: none;
         }
         a {
@@ -23,7 +23,7 @@
         h1 {
             margin-bottom: 0;
             font-style: italic; /* Made header text italic */
-            font-size: 10px; /* Reduced font size for header */
+            font-size: 100%; /* Reduced font size for header */
             border: none;
             outline: none;
         }
