@@ -12,6 +12,7 @@
             margin: 0;
             padding: 0;
             font-size: 50%;
+            border: none;
         }
         a {
             color: black;
