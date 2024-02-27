@@ -6,7 +6,7 @@
     <style>
         body{
             background-color: #fffbee;
-            font-family: 'Newsreader', 'Garamond', serif;
+            font-family: 'Newsreader', serif;
             width: 100%;
             margin: 0;
             padding: 0;
