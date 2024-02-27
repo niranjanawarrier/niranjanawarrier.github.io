@@ -40,7 +40,7 @@
             display: block;
         }
         .dropdown-arrow {
-            font-size: 75%; /* Made dropdown arrow bigger */
+            font-size: 12px; /* Made dropdown arrow bigger */
         }
         .wp-block-column {
             height:50vh;
