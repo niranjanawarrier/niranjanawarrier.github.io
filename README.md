@@ -23,7 +23,7 @@
         h1 {
             margin-bottom: 0;
             font-style: italic; /* Made header text italic */
-            font-size: 10%; /* Reduced font size for header */
+            font-size: 10px; /* Reduced font size for header */
         }
         .dropdown {
             position: relative;
@@ -43,7 +43,7 @@
             display: block;
         }
         .dropdown-arrow {
-            font-size: 100%; /* Made dropdown arrow bigger */
+            font-size: 300%; /* Made dropdown arrow bigger */
         }
         .wp-block-column {
             height:50vh;
