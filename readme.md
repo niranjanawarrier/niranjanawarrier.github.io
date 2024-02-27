@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title></title>
+    <title>Niranjana Warrier</title>
     <style>
             @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap')
     </style>
@@ -46,14 +46,11 @@
             text-align: center;
         }
     </style>
-    <style>
-    h1{
-          font-weight: normal;
-      }
-    </style>
 </head>
 <body>
-    <h1>Niranjana Warrier</h1>
+    <header>
+        <h1><a href="https://niranjanawarrier.github.io">Niranjana Warrier</a></h1>
+    </header>
     <div class="dropdown">
         <a href="#item1">written work</a>
         <div class="dropdown-content">
