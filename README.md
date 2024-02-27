@@ -19,6 +19,9 @@
             font-weight: normal;
             border: none;
         }
+        i {
+            font-size: 125%; /* Adjust as needed */
+        } 
         .dropdown {
             position: relative;
             display: inline-block;
