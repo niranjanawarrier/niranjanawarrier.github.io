@@ -24,8 +24,8 @@
             margin-bottom: 0;
             font-style: italic; /* Made header text italic */
             font-size: 10px; /* Reduced font size for header */
-            height: 10px; /* Set the header height to 10px */
-            line-height: 10px; /* Align the text with the height */
+            height: 20px; /* Set the header height to 10px */
+            line-height: 20px; /* Align the text with the height */
             overflow: hidden; /* Hide the overflow */
         }
         h1 a {
@@ -49,7 +49,7 @@
             display: block;
         }
         .dropdown-arrow {
-            font-size: 10px; /* Made dropdown arrow bigger */
+            font-size: 18px; /* Made dropdown arrow bigger */
         }
         .wp-block-column {
             height:50vh;
