@@ -24,6 +24,9 @@
             margin-bottom: 0;
             font-style: italic; /* Made header text italic */
             font-size: 10px; /* Reduced font size for header */
+            height: 10px; /* Set the header height to 10px */
+            line-height: 10px; /* Align the text with the height */
+            overflow: hidden; /* Hide the overflow */
         }
         h1 a {
             border-bottom: none;
