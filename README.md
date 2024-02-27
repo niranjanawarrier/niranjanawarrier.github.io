@@ -23,8 +23,7 @@
         h1 {
             margin-bottom: 0;
             font-style: italic; /* Made header text italic */
-            font-size: 40%; /* Reduced font size for header */
-            font-weight: 200;
+            font-size: 20%; /* Reduced font size for header */
         }
         .dropdown {
             position: relative;
@@ -38,9 +37,13 @@
             min-width: 160px;
             z-index: 2; /* Increase z-index */
             background-color: #f9f9f9; /* Add background color */
+            border: 1px solid black; /* Added border here */
         }
         .dropdown:hover .dropdown-content {
             display: block;
+        }
+        .dropdown-arrow {
+            font-size: 100%; /* Made dropdown arrow bigger */
         }
         .wp-block-column {
             height:50vh;
@@ -60,7 +63,7 @@
     <h1> <a href="niranjanawarrier.github.io">Niranjana Warrier</a> </h1>
     
 <div class="dropdown">
-    <a href="./ww.md">written work &#751;</a>
+    <a href="./ww.md">written work <span class="dropdown-arrow">˯</span></a> <!-- Added dropdown arrow here -->
 <div class="dropdown-content">
         <p><a href="./ew.md">earlier writing</a></p>
     </div>
