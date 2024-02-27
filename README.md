@@ -26,14 +26,14 @@
             font-size: 20%; /* Reduced font size for header */
         }
         .dropdown {
-            position: relative;
+            position: absolute;
             display: inline-block;
             border: 1px solid black; /* Added border here */
             text-align: center;
         }
         .dropdown-content {
             display: none;
-            position: relative;
+            position: absolute;
             min-width: 160px;
             z-index: 2; /* Increase z-index */
             background-color: #f9f9f9; /* Add background color */
