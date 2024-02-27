@@ -1,3 +1,6 @@
+---
+layout: no-header
+---
 <html>
 <head>
     <title>Niranjana Warrier</title>
