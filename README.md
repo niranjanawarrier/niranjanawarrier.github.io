@@ -1,6 +1,5 @@
 <html>
 <head>
-    <title></title>
     <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
      <style>
         * {
@@ -40,7 +39,7 @@
             display: block;
         }
         .dropdown-arrow {
-            font-size: 12px; /* Made dropdown arrow bigger */
+            font-size: 8px; /* Made dropdown arrow bigger */
         }
         .wp-block-column {
             height:50vh;
@@ -58,7 +57,7 @@
 </head>
 <body>
 
-<p> <a href="niranjanawarrier.github.io">Niranjana Warrier</a> </p>
+<p> <a href="niranjanawarrier.github.io"><i>Niranjana Warrier</i></a> </p>
     
 <div class="dropdown">
     <a href="./ww.md">written work&#x25BC;</a> <!-- Added dropdown arrow here -->
