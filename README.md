@@ -23,7 +23,8 @@
         h1 {
             margin-bottom: 0;
             font-style: italic; /* Made header text italic */
-            font-size: 50%; /* Reduced font size for header */
+            font-size: 40%; /* Reduced font size for header */
+            font-weight: 200;
         }
         .dropdown {
             position: relative;
