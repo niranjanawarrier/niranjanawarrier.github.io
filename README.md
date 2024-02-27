@@ -10,7 +10,7 @@
             width: 100%;
             margin: 0;
             padding: 0;
-            font-size: 12px;
+            font-size: 100%;
             border: none;
         }
         a {
@@ -39,7 +39,7 @@
             display: block;
         }
         .dropdown-arrow {
-            font-size: 8px; /* Made dropdown arrow bigger */
+            font-size: 50%; /* Made dropdown arrow bigger */
         }
         .wp-block-column {
             height:50vh;
