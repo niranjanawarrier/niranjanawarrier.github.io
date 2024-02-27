@@ -29,6 +29,8 @@
         .dropdown {
             position: relative;
             display: inline-block;
+            border: 1px solid black; /* Added border here */
+            text-align: center;
         }
         .dropdown-content {
             display: none;
@@ -58,7 +60,7 @@
     <h1> <a href="niranjanawarrier.github.io">Niranjana Warrier</a> </h1>
     
 <div class="dropdown">
-    <a href="./ww.md">written work <span class="dropdown-arrow">▼</span></a>
+    <a href="./ww.md">written work <span class="dropdown-arrow">&#751;</span></a>
 <div class="dropdown-content">
         <p><a href="./ew.md">earlier writing</a></p>
     </div>
