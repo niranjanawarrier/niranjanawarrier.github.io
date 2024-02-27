@@ -52,7 +52,9 @@
         </div>
     </div>
 
-    <a href="#item2">Item 2</a>
+    <div>
+        <a href="#item2">Item 2</a>
+    </div>
 
     <div class="footer">
         <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="border-bottom-color:#fb977a;border-bottom-style:solid;border-bottom-width:12px;"></div>
