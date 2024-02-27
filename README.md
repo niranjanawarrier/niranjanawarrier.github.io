@@ -40,6 +40,7 @@
             z-index: 10; /* Increase z-index */
             background-color: #f9f9f9; /* Add background color */
             border: 1px solid black; /* Added border here */
+            text-align: center;
         }
         .dropdown:hover .dropdown-content {
             display: block;
