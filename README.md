@@ -33,7 +33,7 @@
         }
         .dropdown-content {
             display: none;
-            position: absolute;
+            position: relative;
             min-width: 160px;
             z-index: 2; /* Increase z-index */
             background-color: #f9f9f9; /* Add background color */
