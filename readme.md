@@ -25,7 +25,8 @@
             display: none;
             position: absolute;
             min-width: 160px;
-            z-index: 1;
+            z-index: 2; /* Increase z-index */
+            background-color: #f9f9f9; /* Add background color */
         }
         .dropdown:hover .dropdown-content {
             display: block;
