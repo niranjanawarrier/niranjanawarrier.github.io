@@ -49,7 +49,6 @@
     </style>
 </head>
 <body>
-    font-family: 'Newsreader', serif;
     <h1> <a href="niranjanawarrier.github.io">Niranjana Warrier</a> </h1>
     
 <div class="dropdown">
