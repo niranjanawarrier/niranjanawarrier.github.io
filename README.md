@@ -1,3 +1,4 @@
+<html>
 ---
 layout: global
 ---
@@ -15,4 +16,4 @@ layout: global
     <a href="./nww.md">non-written work</a>
 </div>
 
-
+</html>
