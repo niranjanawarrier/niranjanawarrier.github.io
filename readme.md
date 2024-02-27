@@ -14,10 +14,6 @@
             width: 100%;
             border: none;
         }
-        .wp-block-column {
-            border: none;
-            width: 100%;
-        }
     </style>
 </head>
 <body>
@@ -29,14 +25,16 @@
     <h2 id="item2">Item 2</h2>
     <p>This is Item 2.</p>
 
-    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="height:50vh;width:100%;float:left;"></div>
-    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="height:50vh;width:100%;float:left;"></div>
-    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="height:50vh;width:100%;float:left;"></div>
-    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="height:50vh;width:100%;float:left;"></div>
-    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="height:50vh;width:100%;float:left;"></div>
-    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="height:50vh;width:100%;float:left;"></div>
+    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="border-bottom-color:#fb977a;border-bottom-style:solid;border-bottom-width:12px;height:50vh;width:100%;float:left;"></div>
+    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="border-bottom-color:#a33a8f;border-bottom-style:solid;border-bottom-width:12px;height:50vh;width:100%;float:left;"></div>
+    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="border-bottom-color:#f4b924;border-bottom-style:solid;border-bottom-width:12px;height:50vh;width:100%;float:left;"></div>
+    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="border-bottom-color:#c3336e;border-bottom-style:solid;border-bottom-width:12px;height:50vh;width:100%;float:left;"></div>
+    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="border-bottom-color:#e8613a;border-bottom-style:solid;border-bottom-width:12px;height:50vh;width:100%;float:left;"></div>
+    <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="border-bottom-color:#38ada6;border-bottom-style:solid;border-bottom-width:12px;height:50vh;width:100%;float:left;"></div>
 </body>
 </html>
+
+ 
 
 
 
