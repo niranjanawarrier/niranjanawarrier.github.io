@@ -24,12 +24,8 @@
             margin-bottom: 0;
             font-style: italic; /* Made header text italic */
             font-size: 10px; /* Reduced font size for header */
-            height: 20px; /* Set the header height to 10px */
-            line-height: 20px; /* Align the text with the height */
-            overflow: hidden; /* Hide the overflow */
-        }
-        h1 a {
-            border-bottom: none;
+            border: none;
+            outline: none;
         }
         .dropdown {
             position: relative;
@@ -69,7 +65,7 @@
     <h1> <a href="niranjanawarrier.github.io">Niranjana Warrier</a> </h1>
     
 <div class="dropdown">
-    <a href="./ww.md">written work&#8964;</a> <!-- Added dropdown arrow here -->
+    <a href="./ww.md">written work&#x25BC;</a> <!-- Added dropdown arrow here -->
 <div class="dropdown-content">
         <p><a href="./ew.md">earlier writing</a></p>
     </div>
